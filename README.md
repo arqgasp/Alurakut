@@ -109,7 +109,7 @@
       - <a href="https://www.youtube.com/watch?v=f8a-qwKC5yk">Ju Negreiros - Destructuring</a> <br>
   </details>
   
-  ---
+---
 
-<p align="center"> :sparkles: by: Gabriel Pereira :sparkles:</p>
+<p align="center"> 2021 by: Gabriel Pereira/p>
 
