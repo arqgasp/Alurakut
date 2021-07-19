@@ -1,5 +1,8 @@
-<h1 align="center">Imersão React - Alurakut</h1>
-<h2 align="justify">A Imersão React é gratuita e é voltada para profissionais, estudantes e para todo mundo que quer aprender mais sobre front-end. Nesta imersão vamos mergulhar no passado e dominar o futuro com o Alurakut! O projeto é uma versão do Orkut, criado com React, styled-components e next/js. </h2>
+<h1 align="center">
+  <img alt="askr" title="Pomo.up" src="https://github.com/arqgasp/alurakut/blob/main/logo-alurakut.svg" width="220px" />
+</h1>
+<br>
+<h2 align="justify"> A Imersão React oferecida pela escola Alura foi curso gratuito de cinco dias em que foi desenvolvida uma rede social já extinta e querida por muitos brasileiros. O projeto é uma versão do Orkut, criado com React, styled-components e next/js. </h2>
 
 ## Imagem
 
