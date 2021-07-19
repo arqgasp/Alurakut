@@ -111,5 +111,5 @@
   
 ---
 
-<p align="center"> 2021 by: Gabriel Pereira/p>
+<p align="center"> 2021 by: Gabriel Pereira
 
