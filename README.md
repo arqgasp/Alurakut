@@ -30,8 +30,6 @@ Aproveita e deixa algum comentário sobre o projeto ou alguma sugestão!(será m
     - Rodar aplicativo
     $ npm run dev</code>
 
-<a href="styled-components.md">Example app with styled-components</a>
-
 ## Instrutores
 
 - <a href="https://twitter.com/omariosouto">Mario Souto</a> <br>
