@@ -17,9 +17,6 @@
   - Inputs dos formulários vazios após post,
   - Seguidores/Seguindo de acordo com o usuário,
   - Possibilidade de criar comunidades,
-  - Adicionar comentários na pagina.   
-
-Aproveita e deixa algum comentário sobre o projeto ou alguma sugestão!(será muito bem-vinda).
 
 ## Instalação
 
